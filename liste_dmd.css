@@ -1,0 +1,74 @@
+nav{ 
+    margin-left: -40px;
+    margin-top: -15.8px;
+    
+}
+body{
+    background-color: #D6D0F9;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+li{
+    list-style: none;
+ }
+ a{
+    text-decoration: none;   
+    color: white;
+ }
+ ul.child{
+    display: none;
+    width: 100%!important;
+}
+ul.parent > li{
+    float: left;
+    width: 16.666%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: black;
+    opacity: .8;
+    cursor: pointer;
+    border-bottom: 0.5px solid white;
+    text-decoration: none;
+    font-size: 16px;
+
+}
+a{
+    text-decoration: none;   
+    color: white;
+}
+.trait{
+    border-top: 2px solid rgb(255, 255, 255);
+    width : 212px;
+}
+h1{
+    position: absolute; 
+    top: 10%;
+    left: 25%;
+}
+form{
+    position: absolute;
+    top: 25%;
+    left: 30%;
+}
+#search{
+    transform: translate(260% , -100%);
+}
+table{
+    position: absolute; 
+    left: 1%;
+    top: 15%;
+    border-collapse: collapse;
+    min-width: 600px;
+    width: 98%;
+    cursor: pointer;
+    margin: 95px auto ;
+    border: 2px solid rgb(5, 5, 5);
+}
+th, td{
+    padding: 0.2px 0.2px ;
+    border: 1px solid rgb(5, 5, 5);
+}
+tbody tr , td ,th{
+    border: 2px solid rgb(5, 5, 5);
+}

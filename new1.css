@@ -1,0 +1,28 @@
+html,body,div{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(transp.jpg) no-repeat;
+    background-size: cover;
+}
+/*.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+.login-left{
+    background: rgba(211,211,211,0.5);
+    padding: 30px;
+}
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+.form-control{
+    background-color: transparent !important;
+}*/

@@ -1,0 +1,62 @@
+.bt1{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    color:#0d59c5;
+    padding: 30px 60px;
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    text-decoration: none;
+    box-shadow: 0 20px 50px rgba(0,0,0,.5);
+}
+.horloge{
+    position: absolute ; 
+    top: 58%;
+    left: 30% ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    text-shadow: 0 2px 50px rgba(10,10,10,0.5);
+}
+
+.heures{
+    width: 500px;
+    font-size: 100px;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 700;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgba(10,10,10,0.2);
+}
+
+.date{
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    padding-top: 10px;
+}
+
+.Bien{
+    
+    position: absolute;
+    color: black;
+    font-size: 50px;
+    left: 30%;
+    letter-spacing: 1px;
+
+}
+.fb{
+    color: #0d59c5;
+  
+}
+.yout{
+    color: red;
+}
+.social{
+    position: absolute;
+    top: 93%;
+    left: 94%;
+    
+}

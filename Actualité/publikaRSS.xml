@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="http://www.equipement.gov.ma/Pages/accueil.aspx" rel="self" type="application/rss+xml" />
+	<link>http://www.equipement.gov.ma/Pages/accueil.aspx</link>
+	<lastBuildDate>Mardi, 06 Oct 2020 16:17:00 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title> MINISTÈRE DE L’EQUIPEMENT, DU TRANSPORT DE LA LOGISTIQUE ET DE L’EAU</title>
+		<link>http://www.equipement.gov.ma/Pages/accueil.aspx</link>
+		<dc:creator>MINISTÈRE DE L’EQUIPEMENT, DU TRANSPORT DE LA LOGISTIQUE ET DE L’EAU</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+
+		<guid isPermaLink="false">http://www.equipement.gov.ma/Pages/accueil.aspx</guid>
+		<description><![CDATA[<p>Le Ministère de l’Equipement, du Transport, de la Logistique et de l'Eau (Département de l’Equipement, du Transport et de la Logistique) élabore et met en œuvre, dans le cadre des lois et règlements en vigueur, la politique du gouvernement dans les domaines routier, portuaire, ferroviaire et maritime.</p>]]></description>
+			<content:encoded><![CDATA[<p><font size="5pt">
+			<p><p><strong><font color="blue">Missions :</font></strong></p>
+			<p>Il élabore et met en œuvre la politique du gouvernement en matière de transports routier, ferroviaire et maritime. Il a en outre pour mission de définir la politique du gouvernement en matière de sécurité routière et de coordonner sa mise en œuvre.</p>
+			<p>Le Ministère de l’Equipement, du Transport de la Logistique et de l'Eau peut assurer également pour le compte d’autres départements ou des collectivités territoriales, ou des établissements publics ou des associations d’utilité publique ou des sociétés d’Etat qui en font la demande :</p>
+			<ul>
+			<li>La réalisation, la supervision ou le contrôle d’études à caractère technique;</li>
+			<li>La réalisation d’ouvrages techniques ou le contrôle technique, de travaux concédés, ou donnés en gérance.</li>
+			</ul>
+			<p><strong><font color="blue">Structure organisationnelle :</font></strong></p>
+			<p><U>Au niveau central :</U></p>
+			<li>Secrétariat Général</li>
+			<li>Conseil Général de l’Equipement et du Transport</li>
+			<li>Inspection Générale</li>
+			<li>Direction de la Stratégie, des Programmes et de la Coordination des Transports</li>
+			<li>Direction des Systèmes d'Information</li>
+			<li>Direction des Affaires Administratives et Juridiques</li>
+			<li>Direction des Affaires Techniques et des Relations avec la Profession</li>
+			<li>Direction des Ressources Humaines</li>
+			<li>Direction des Routes</li>
+			<li>Direction des Transports Routiers et de la Sécurité Routière</li>
+			<li>Direction des Ports et du Domaine Public Maritime</li>
+			<li>Direction de la Marine Marchande</li>
+			<li>Direction des Equipements Publics</li>
+			<p><U>Au niveau Territorial:</U></p>
+			<p><B>Deux aménagements temporaires en qualité de direction centrale :</B></p>
+			<li>Direction Provisoire d’Aménagement du Nouveau Port de Safi,</li>
+			<li>Direction Provisoire d’Aménagement de la Route Nationale n°1 Tiznit Dakhla,</li>
+			<p><B>12 Directions Régionales de l’Equipement, du Transport et de la Logistique auxquelles 
+			sont rattachées 53 Directions Provinciales</B></p>
+			<p><a href=" http://www.equipement.gov.ma/Pages/accueil.aspx">Pour plus d'informations</a></p>
+			</font></p>]]></content:encoded>
+		</item>
+		<item>
+		<title>Les E-Serivces</title>
+		<dc:creator>Ministère de l’Equipement du Transport, de la Logistique et de l’Eau.</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+			<content:encoded><![CDATA[<p><font size="5pt">
+			<p><strong><font color="blue">PARTICULIER:</font></strong></p>
+			<ul>
+			<li><a href="http://authenticite.mtpnet.gov.ma/metl-authenticite-1/consulter.html/"><img src="permis.png" />Authenticité du permis de conduire</a></li>
+			<li><a href="http://www.assiaqacard.ma/opppub/"><img src="veh.png" />Consultation de l'état des oppositions à mutation des véhicules</a></li>
+			<li><a href="http://reclamation.mtpnet.gov.ma/index.php5?page=citoyen.AccueilCitoyen/"><img src="rec.png" />Réclamations en ligne</a></li>
+			<li><a href="http://www.equipement.gov.ma/Pages/accueil.aspx/"><img src="navres.png" />Immatriculation des navires et engins nautiques de plaisance</a></li>
+			</ul>
+			<p><strong><font color="blue">PROFESSIONNEL:</font></strong></p>
+			<ul>
+			<li><a href="http://www.equipement.gov.ma/Espace-Fournisseurs/Pages/objectifs.aspx/"><img src="achat.png" />Espace achat</a></li>
+			<li><a href="http://autoecole.mtpnet.gov.ma/Demande5New/loginn.seam/"><img src="saisie.png" />Saisie en ligne des permis de conduire</a></li>
+			<li><a href="http://www.equipement.gov.ma/Ingenierie/Systemes-regissant-la-Profession/Pages/Qualification-et-classification-des-Entreprises-BTP.aspx/"><img src="Es.png" />Qualification et classification des entreprises de BTP </a></li>
+			<li><a href="http://alv.mtpnet.gov.ma/Login.aspx?ReturnUrl=%2fPages%2fHome.aspx/"><img src="location.png" />Agences de Location de voiture</a></li>
+			<li><a href="https://equalification.mtpnet.gov.ma/DeQCA.FO/Default.aspx/"><img src="labo.png" />Qualification et classification des laboratoires de BTP</a></li>
+			<li><a href="http://dsi-webpreprod/Ingenierie/Systemes-regissant-la-Profession/Pages/Agrement-des-Bureaux-d-Etudes.aspx/"><img src="bureau.png" />Agréments des bureaux d'étude</a></li>
+			<li><a href="http://sitrfp.mtpnet.gov.ma/Login.aspx?ReturnUrl=%2fPages%2fHome.aspx/"><img src="prof.png" />Formation des conducteurs professionnels</a></li>
+			<li><a href="http://stcw.equipement.gov.ma/"><img src="STCW.png" />Verification des certificats STCW</a></li>
+			<li><a href="https://ajal.finances.gov.ma/reclamation//"><img src="AJAL.png" />AJAL</a></li>
+			</ul>
+			<p><strong><font color="blue">SERVICES MOBILES:</font></strong></p>
+			<li><a href="http://maroute.mtpnet.gov.ma/html/#/app/home/"><img src="maroute.png" />Ma route</a></li>
+			<li><a href="http://eprocess.mtpnet.gov.ma/InfractionWeb/web//"><img src="infra.png" />Mes infractions</a></li>
+			<li><a href="http://maplage.mtpnet.gov.ma/mobile//"><img src="plage.png" />Ma plage</a></li>
+
+			</font></p>]]>
+       </content:encoded></item>
+	   <item>
+		<title>Concours d’accès aux Instituts Spécialisés des Travaux Publics (ISTP) - Session de septembre 2020</title>
+		<dc:creator>Ministère de l’Equipement du Transport, de la Logistique et de l’Eau.</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+			<content:encoded><![CDATA[<p><font size="5pt">
+			Le Ministère de l’Equipement, du Transport, de la Logistique et de l’Eau organise, par sélection selon 
+			le mérite, le concours d’accès au Cycle de Technicien Spécialisé filière : Génie Civil aux Instituts 
+			Spécialisés des Travaux Publics de Marrakech, Oujda, Fès et Agadir et filière : Gestion de la Logistique et 
+			des Transports à l’Institut Spécialisé des Travaux Publics d’Oujda et ce, au titre de l’année académique 
+			2020-2021 (session de septembre 2020).
+			<p>Pour plus d'informations : <a href="https://www.tawjihnet.net/actualites/concours-selection-istp-oujda-marrakech-fes-et-agadir-2020-2021/">Concours selection ISTP Oujda Marrakech Fes et Agadir 2020 – 2021</a></p>
+			</font></p>]]></content:encoded></item>
+		<item>
+		<title>Les examens pratiques pour l’obtention du permis de conduire au centre d’une réunion présidée par Monsieur le Ministre</title>
+		<dc:creator>Ministère de l’Equipement du Transport, de la Logistique et de l’Eau.</dc:creator>
+				<category><![CDATA[Newsletters]]></category>
+		<content:encoded><![CDATA[<p><font size="5pt">
+		<B>28.09.2020 Monsieur Abdelkader Amara, Ministre de l’Equipement, du Transport, de la Logistique et de l’Eau, 
+		a présidé, le vendredi 25 septembre 2020, une réunion sur l’examen pratique pour l’obtention du permis 
+		de conduire et sa digitalisation.</B></br>
+	<img src="nouv.png"	></br>
+Cette réunion vise à identifier un cadre de coopération fructueux entre le Ministère de l’Equipement, du Transport, de la Logistique et de l’Eau, l’Agence Nationale de la Sécurité Routière (NARSA) et l’Université Mohammed VI Polytechnique, en vue de moderniser les examens pratiques de permis de conduire avec une conception et un développement marocains.
+
+Dans le même sens, Monsieur le Ministre a mis en avant les différents objectifs de cette opération, notamment, la mise en place d’un système plus transparent doté d’indices numériques de traçabilité, la lutte contre le fléau des accidents de la circulation causé par l’incompétence de certains conducteurs, en plus de la mise à niveau de la qualité des formations dans les auto-écoles.
+
+En outre, Monsieur le Ministre a noté qu’après les phases de recherche et du développement, une expérience pilote au profit des véhicules légers sera lancée, pour l’élargir par la suite sur les autres types de véhicules.
+
+Ont pris part à cette réunion, un nombre de responsables relevant du Ministère, de NARSA et de l’Université Mohammed VI Polytechnique (Ben Guerir).
+
+		</font></p>]]></content:encoded></item>
+
+
+
+
+
+
+
+
+		
+	
+	</channel>
+</rss>

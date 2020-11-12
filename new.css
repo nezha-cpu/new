@@ -1,0 +1,132 @@
+html,body,div{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(transp.jpg);
+    background-size: cover;
+}
+#entete h1{
+    transform: translate(30% , 20%);
+    width: 150px ;
+    padding: 5px ;
+
+}
+#entete h1 img{
+    margin-top: -30%;
+    margin-bottom: 90%;
+    transform: translate(50% , 4%);
+}
+#entete h2{
+    text-align: center;
+    margin: 0 0 20px;
+    margin-top: -20%;
+    color: #d1d3d6;
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    font-size: 15px;
+    
+}
+#entete h3{
+    text-align: center;
+    color: #d1d3d6;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 18px;
+    
+}
+#entete h4{
+    text-align: right;
+    transform: translate(-9% , -20%);
+    margin-top: -5% ;
+    
+}
+.banner{
+   
+    background: rgba(0,0,0,0.8);
+    box-sizing: border-box ;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+}
+li{
+    list-style: none ;
+}
+.box{
+    position: absolute;
+    top:65% ; 
+    left:50% ;
+    transform: translate(-50% , -50%);
+    width: 300px ;
+    padding: 20px ;
+    background: rgba(0,0,0,0.8);
+    box-sizing: border-box ;
+    box-shadow: 0 15px 25px rgba(0,0,0,.5);
+    border-radius: 15px ;
+}
+h5{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 0 ;
+    margin: 0 0 30px ;
+    color: #1E7FCB;
+    text-align: center;
+    font-size: 28px;
+}
+a{
+    text-decoration: none ;
+    transition:0.2s;
+    overflow: hidden;
+    font-size: 24px ;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #1E7FCB;
+    position: relative ;
+    display: inline-block ;
+    /*padding: 20px 50px ;*/
+}
+.btn1{
+    text-align: center;
+    width: 100%;
+    padding : 15px 5px ;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing:0.5px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+
+}
+.btn2{
+    text-align: center;
+    width: 100%;
+    padding : 15px 5px ;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing:0.5px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+}
+.btn3{
+    text-align: center;
+    width: 100%;
+    padding : 15px 5px ;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing:0.5px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+}
+li{
+    list-style: none ;
+}

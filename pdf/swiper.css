@@ -1,0 +1,49 @@
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 100px;
+    min-height: 100px;
+    background: black; 
+    opacity: .8;
+    border-radius: 10px;
+
+  }
+  .testimonials{
+      position: absolute;
+      max-width: 90%;
+      top: 34% ;
+      left : 6% ;
+  }
+  .swiper-container-3d .swiper-slide-shadow-left ,
+  .swiper-container-3d .swiper-slide-shadow-right {
+      background-image: none;
+  }
+  .testimonials .card{
+      position: relative ;
+      width: 100%;
+      margin: 0 auto ; 
+      background: #333;
+      padding: 60px 50px;
+      text-align: center;
+      overflow: hidden;
+  } 
+  .testimonials .card .layer{
+      position: absolute ;
+      top: 0 ; 
+      left: 0 ; 
+      width: 100% ; 
+      height: 100%;
+      background: #1E7FCB;
+      z-index: 1 ;
+      transition: 0.5s;
+  }
+  .testimonials .card .content{
+      position: relative;
+      z-index: 2;
+  }
+  .testimonials .card .content p {
+      font-size: 20px;
+      line-height: 15px;
+      margin-bottom: 8px ;
+      color: rgb(0, 0, 0);
+  }

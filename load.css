@@ -1,0 +1,44 @@
+
+.donn{
+    position: absolute; 
+    top: 10%;
+    left: 25%;
+    text-transform: uppercase;
+    color:rgb(10, 2, 51);
+    font-size: 25px;  
+    letter-spacing: 3px;
+    font-family: sans-serif;
+    border: 3px solid rgb(10, 2, 51);
+    box-sizing: border-box;
+    border-radius: 3px;
+
+}
+.tableau-style{
+    position: absolute; 
+    left: 12%;
+    top: 9%;
+    border-collapse: collapse;
+    min-width: 800px;
+    width: auto;
+    box-shadow: 0 5px 50px rgba(0 ,0,0, 0.15);
+    cursor: pointer;
+    margin: 100px auto ;
+    border: 2px solid rgb(10, 2, 51);
+    
+}
+thead tr{
+    background-color:rgb(10, 2, 51);
+    color: #ffff;
+    text-align: left;
+}
+th, td{
+    padding: 15px 20px ;
+    border: 1px solid rgba(0 ,0,0, 0.15);
+}
+tbody tr , td ,th{
+    border: 1px solid rgba(0 ,0,0, 0.15);
+
+}
+tbody tr:last-of-type{
+    border-bottom: 2px solid rgb(10, 2, 51);
+}

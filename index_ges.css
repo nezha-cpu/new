@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #D6D0F9;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+li{
+   list-style: none;
+}
+
+   
+ul.child{
+    display: none;
+    width: 100%!important;
+    margin-top: 30px;
+    line-height: 28px;
+    
+}
+ul.parent > li{
+    float: left;
+    width: 25%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: black;
+    opacity: .8;
+    cursor: pointer;
+    border-bottom: 0.5px solid white;
+
+}
+a{
+    text-decoration: none;   
+    color: white;
+}
+.trait{
+    border-top: 2px solid rgb(255, 255, 255);
+    width : 212px;
+}
